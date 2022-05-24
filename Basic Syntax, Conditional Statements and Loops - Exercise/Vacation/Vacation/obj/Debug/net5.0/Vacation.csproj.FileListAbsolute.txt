@@ -1,0 +1,15 @@
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.csproj.AssemblyReference.cache
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.AssemblyInfoInputs.cache
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.AssemblyInfo.cs
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.csproj.CoreCompileInputs.cache
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.deps.json
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.runtimeconfig.json
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.runtimeconfig.dev.json
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/bin/Debug/net5.0/ref/Vacation.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/bin/Debug/net5.0/Vacation.pdb
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/obj/Debug/net5.0/ref/Vacation.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.pdb
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Vacation/Vacation/obj/Debug/net5.0/Vacation.genruntimeconfig.cache

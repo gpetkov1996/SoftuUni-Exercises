@@ -1,0 +1,15 @@
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/bin/Debug/net5.0/Print_And_Sum.deps.json
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/bin/Debug/net5.0/Print_And_Sum.runtimeconfig.json
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/bin/Debug/net5.0/Print_And_Sum.runtimeconfig.dev.json
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/bin/Debug/net5.0/Print_And_Sum.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/bin/Debug/net5.0/ref/Print_And_Sum.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/bin/Debug/net5.0/Print_And_Sum.pdb
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/obj/Debug/net5.0/Print_And_Sum.csproj.AssemblyReference.cache
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/obj/Debug/net5.0/Print_And_Sum.GeneratedMSBuildEditorConfig.editorconfig
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/obj/Debug/net5.0/Print_And_Sum.AssemblyInfoInputs.cache
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/obj/Debug/net5.0/Print_And_Sum.AssemblyInfo.cs
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/obj/Debug/net5.0/Print_And_Sum.csproj.CoreCompileInputs.cache
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/obj/Debug/net5.0/Print_And_Sum.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/obj/Debug/net5.0/ref/Print_And_Sum.dll
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/obj/Debug/net5.0/Print_And_Sum.pdb
+/Users/genadipetkov/Desktop/CODING/SoftUni/FUNDAMENTALS/Basic Syntax, Conditional Statements and Loops - Exercise/Print And Sum/Print_And_Sum/obj/Debug/net5.0/Print_And_Sum.genruntimeconfig.cache

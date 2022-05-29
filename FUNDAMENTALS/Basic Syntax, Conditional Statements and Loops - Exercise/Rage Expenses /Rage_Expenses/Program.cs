@@ -19,7 +19,7 @@ namespace Rage_Expenses
 
             double rageExpenses = moneyForHeadset + moneyForMouse + moneyForKeyboard + moneyForDisplay;
 
-            Console.WriteLine($"Rage expenses: {rageExpenses:F2} lv");
+            Console.WriteLine($"Rage expenses: {rageExpenses:F2} lv.");
         }
     }
 }
